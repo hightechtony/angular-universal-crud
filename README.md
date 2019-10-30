@@ -13,8 +13,8 @@ Step by step practical guide on building an Angular 8|9 Universal CRUD (Create, 
 * Open another terminal and run `npm run build:ssr && npm run serve:ssr`
 
 ## List of Express APIs
-* POST Create Song	    /api/create-song
-* GET Get All Songs	    /api/get-songs
-* GET Get Single Song	/api/get-song/:id
-* PUT Update Song	    /api/update-song/:id
-* DELETE Delete Song	/api/delete-song/:id
+* POST `/api/create-song`
+* GET  `/api/get-songs`
+* GET `/api/get-song/:id`
+* PUT `/api/update-song/:id`
+* DELETE `/api/delete-song/:id`
